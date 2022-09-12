@@ -12,7 +12,8 @@ Thentic NFT DAPP
 6. paste server url into postman with POST request e.g (http://192.168.1.30:8080/ )
 7. add /mint at the end of the server url 
 8. in the body of the POST request add form-data with key-value pairs for "address" and "image"
-![](../../../../var/folders/l4/y6m3f4ys0bq2kkff7jp9g18r0000gn/T/TemporaryItems/NSIRD_screencaptureui_6XQe0x/Screen Shot 2022-09-12 at 4.22.28 PM.png)
+<img width="676" alt="Screen Shot 2022-09-12 at 4 27 48 PM" src="https://user-images.githubusercontent.com/39510743/189619944-bb1ffd22-a209-4502-866a-20d3c9136feb.png">
+
 9. Send request 
 10. Metamask will open on the BSC Testnet
 11. Execute Transaction.
